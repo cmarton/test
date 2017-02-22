@@ -162,6 +162,9 @@
 <dynamic-parameter assertionOnNoMatch="true" defaultValue="&lt;NOT FOUND&gt;" extractionMethod="REGEXP_ONLY" extractionSource="HEADERS" name="_sn_headers" regexp="set-cookie: _sn=(.*?);" setDefaultValue="true" template="$1$">
 <dp-request-injector groups="1" injectionMethod="REGEXP" regexp="&lt;parameter name=&quot;_sn&quot;&gt;(.*?)&lt;/parameter&gt;" type="TEXT_CONTENT"/>
 </dynamic-parameter>
+<dynamic-parameter assertionOnNoMatch="true" defaultValue="&lt;NOT FOUND&gt;" extractionMethod="REGEXP_ONLY" extractionSource="HEADERS" name="_sn_headers_2" regexp="set-cookie: _sn=(.*?);" setDefaultValue="true" template="$1$">
+<dp-request-injector groups="1" injectionMethod="REGEXP" regexp="&lt;parameter name=&quot;_sn&quot;&gt;(.*?)&lt;/parameter&gt;" type="TEXT_CONTENT"/>
+</dynamic-parameter>
 <dynamic-parameter assertionOnNoMatch="true" defaultValue="&lt;NOT FOUND&gt;" extractionMethod="REGEXP_ONLY" extractionSource="BODY" name="_sn_xml" regexp="&lt;property name=&quot;_sn&quot;&gt;(.*?)&lt;/property&gt;" setDefaultValue="true" template="$1$">
 <dp-request-injector groups="1" injectionMethod="REGEXP" regexp="&lt;parameter name=&quot;_sn&quot;&gt;(.*?)&lt;/parameter&gt;" type="TEXT_CONTENT"/>
 </dynamic-parameter>
