@@ -5,6 +5,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum varius urna 
 ## License
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
+## How to Contribute
+Curabitur vestibulum congue mi, id maximus elit facilisis vel. Donec vitae sem neque. Sed sed nisi mauris. Lorem ipsum dolor sit amet, consectetur adipiscing elit
+
 ##How to share FP
 
 ###How to export
