@@ -7,7 +7,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 ##How to share FP
 
-###ow to export
+###How to export
 
 Vestibulum varius urna nec fermentum facilisis
 
