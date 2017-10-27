@@ -13,12 +13,12 @@ The MQTT websocket module has been tested with NeoLoad 5.4.0.
 * **NeoLoad** - First of all you need to download NeoLoad and install it on your machine. 
 http://www.neotys.com/support/download-neoload.html
 
-* **Neoload MQTT WebSocket’s Data Format Extension** - Download [here](releases/latest).   
+* **Neoload MQTT WebSocket’s Data Format Extension** - Download [the latest release](https://github.com/cmarton/test/releases/latest).   
 *This extension needs to be added on each new NeoLoad  project using MQTT over WebSocket.*
 
 * **MQTT Framework** - To design your scenario, you need to configure MQTT technical parameters as well as parameters related to your functional use case.
 In order to respect the messaging workflow related to MQTT, it is recommended to add the MQTT framework into Neoload.
-NeoLoad will manage all ”synchronous messages with the help of the Neoload Mqtt framework. Download [here](releases/latest).
+NeoLoad will manage all ”synchronous messages with the help of the Neoload Mqtt framework. Download [the latest release](https://github.com/cmarton/test/releases/latest).
 
 ## Create a new Neoload project with the MQTT module
 
