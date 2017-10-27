@@ -18,3 +18,6 @@ Vestibulum varius urna nec fermentum facilisis
 
 Nullam ut velit tellus. Aenean porta leo blandit ligula rhoncus, a euismod diam hendrerit.
 
+## Download
+The [lastest release](https://github.com/cmarton/test/releases/latest).
+
