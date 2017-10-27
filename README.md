@@ -20,7 +20,8 @@ Nullam ut velit tellus. Aenean porta leo blandit ligula rhoncus, a euismod diam 
 
 ## Guide
 
-Read the [Guide](documentation/guide.md).
+Read the [MQTT over WebSocket guide](Documentation/MQTT_over_WebSocket.md).
+Read the [Dynatrace OneAgent doc](Documentation/Dynatrace_One_Agent.md).
 
 ## Download
 The [lastest release](https://github.com/cmarton/test/releases/latest).
