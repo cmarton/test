@@ -37,6 +37,13 @@ NeoLoad will manage all ”synchronous messages with the help of the Neoload Mqt
 The [Protocol specification](http://public.dhe.ibm.com/software/dw/webservices/ws-mqtt/mqtt-v3r1.html) of MQTT describes 
 the following workflow between the different messages:
 
+<img alt="Messages Workflow" src="images/image1.png" width="50%">
+
+
+
+
+
+
 
 
 
