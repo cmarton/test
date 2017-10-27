@@ -32,7 +32,7 @@ NeoLoad will manage all ”synchronous messages with the help of the Neoload Mqt
 1. Select the Project settings tab. On the left panel, select the Modules Manager section.
 1. Select the Extensions tab. Add a new extension by selecting the mqttwebsocket.jar.
 
-# MQTT messaging workflow
+## MQTT messaging workflow
 
 The [Protocol specification](http://public.dhe.ibm.com/software/dw/webservices/ws-mqtt/mqtt-v3r1.html) of MQTT describes 
 the following workflow between the different messages:
